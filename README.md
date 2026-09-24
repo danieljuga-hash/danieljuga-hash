@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Daniel Anugrah Atmadyma Nainggolan</h1>
-<h3 align="center">You can call me Daniel.I'm currently studying Cyber Security at BINUS</h3>
+<h3 align="center">Cyber Security student at BINUS University driven by a passion for continuous learning and technological
+innovation. A disciplined team player adept at quickly grasping new concepts and dedicated to translating ideas
+into practical digital solutions.</h3>
 
 - 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **danielnainggolan2610@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YSN1JoHZabHkBcQvnUSyT8NjeDzzV3xX/view?usp=sharing](https://drive.google.com/file/d/1YSN1JoHZabHkBcQvnUSyT8NjeDzzV3xX/view?usp=sharing)
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
