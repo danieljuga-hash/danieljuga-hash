@@ -2,9 +2,7 @@
 
 ## About me
 
-<h3 align="center">Cyber Security student at BINUS University driven by a passion for continuous learning and technological
-innovation. A disciplined team player adept at quickly grasping new concepts and dedicated to translating ideas
-into practical digital solutions.</h3>
+<h3 align="center">Cyber Security student at BINUS University driven by a passion for continuous learning and technological innovation. A disciplined team player adept at quickly grasping new concepts and dedicated to translating ideas into practical digital solutions, with a specific interest in Blue Team roles such as threat monitoring and incident response.</h3>
 
 - 🌱 I’m currently learning **Cyber Security**
 
