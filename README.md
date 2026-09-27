@@ -39,9 +39,9 @@ milestone. It pushed my technical boundaries, sharpened my analytical skills, an
 me how to adapt quickly to entirely new
 cybersecurity environments.
 
-  Link: https://docs.google.com/document/d/1scrFwtfynbkyRYngzzpDLS8vW5URrpq8/edit?rtpof=true&tab=t.0
+      Link: https://docs.google.com/document/d/1scrFwtfynbkyRYngzzpDLS8vW5URrpq8/edit?rtpof=true&tab=t.0
 
-- picoCTF Security Challenges & Write-Up Documentation
+- PicoCTF Security Challenges & Write-Up Documentation
 
   Role: CTF Participant & Write-Up Author
 
@@ -70,7 +70,7 @@ how to document findings professionally, a
 skill I now realize is absolutely critical for any
 security analyst.
 
-Link: https://drive.google.com/drive/folders/1UsoUfseoxizjjpN3Pe_4TBDzHdDMRSTb
+      Link: https://drive.google.com/drive/folders/1UsoUfseoxizjjpN3Pe_4TBDzHdDMRSTb
 
 ## Technical Skill
 
