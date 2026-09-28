@@ -71,7 +71,8 @@ skill I now realize is absolutely critical for any
 security analyst.
 
       Link: https://drive.google.com/drive/folders/1UsoUfseoxizjjpN3Pe_4TBDzHdDMRSTb
-
+## Organization
+- Research and Development (R&D) Member | Cyber Security Community (CSC)
 ## Technical Skill
 
 - Penetration Testing: Reconnaissance, Scanning, Enumeration, Vulnerability Assessment, Exploitation, Privilege Escalation, Post-Exploitation, Reporting.
