@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **danielnainggolan2610@gmail.com**
 
-- 📄 Know about my experiences (https://shorturl.at/rwEGg)
+- 📄 Know about my experiences [(https://shorturl.at/rwEGg)](https://docs.google.com/document/d/17_oe_T-UPLENKzYRlBbFKB3B2MjyZ0dBK04rsXVedcE/edit?tab=t.0)
 
  ## Feature Project
 - Hack The Box (HTB) "Guardian" Machine (Hard Difficulty)
